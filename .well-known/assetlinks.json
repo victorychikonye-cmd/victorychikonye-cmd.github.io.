@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "Victorltd.myapp",
+        "sha256_cert_fingerprints": ["7D:5B:46:28:60:B6:64:1D:32:F7:A7:AC:54:0A:42:C8:34:82:79:D5:D7:6B:E6:67:38:3B:E6:39:7F:5B:C3:63"]
+      }
+    }]
 
